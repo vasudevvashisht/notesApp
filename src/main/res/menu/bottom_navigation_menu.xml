@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home_page"
+        android:enabled="true"
+        android:icon="@drawable/home"
+        android:title="Home"/>
+    <item
+        android:id="@+id/alarm_page"
+        android:enabled="true"
+        android:icon="@drawable/alarm"
+        android:title="Alarm"/>
+    <item
+        android:id="@+id/account_page"
+        android:enabled="true"
+        android:icon="@drawable/account"
+        android:title="Account"/>
+
+</menu>

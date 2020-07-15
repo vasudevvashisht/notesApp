@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="25dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ADD NEW NOTE"
+            android:textAlignment="center"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:layout_margin="15dp"
+            android:textColorHighlight="@color/colorPrimary"/>
+        <EditText
+            android:id="@+id/edit_note_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Title"
+            />
+        <EditText
+            android:id="@+id/edit_note_desc"
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:hint="Description.."
+            android:gravity="bottom"
+            />
+        <Button
+            android:id="@+id/button_save"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textColor="@android:color/white"
+            android:layout_marginTop="25dp"
+            android:background="@color/colorPrimary"
+            android:text="SAVE"
+            android:textAllCaps="true"
+             />
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pilot</string>
+    <string name="custom_channel_id">Custom Channel</string>
+</resources>

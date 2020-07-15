@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "573059826566",
+    "firebase_url": "https://pilot-ac344.firebaseio.com",
+    "project_id": "pilot-ac344",
+    "storage_bucket": "pilot-ac344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573059826566:android:ae54ed3e2c0cb786d52207",
+        "android_client_info": {
+          "package_name": "com.example.pilot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573059826566-lccbg4ds7p7pfab78nfosi03m4vstk7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pilot",
+            "certificate_hash": "8f8cc70102281d6b1bb2c2c38ee85731b7a3a45a"
+          }
+        },
+        {
+          "client_id": "573059826566-l8dmm0s1rn8q6cgvl2q3u6s24ggt4e7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZfwLrHsdgrks1-YkfuC_Stm83hlPwCDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573059826566-l8dmm0s1rn8q6cgvl2q3u6s24ggt4e7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
