@@ -6,7 +6,7 @@ import androidx.room.Entity;
 import androidx.room.PrimaryKey;
 
 import java.io.Serializable;
-
+//Entity to store a note object in the DB
 @Entity(tableName = "note_table")
 public class Note implements Serializable {
 
